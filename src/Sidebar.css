@@ -1,0 +1,24 @@
+.sidebar{
+    flex: 0.25;
+    min-width: 25rem;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    
+
+
+
+}
+
+.tweeter_button{
+    border: none !important;
+    padding: 2rem !important;
+    color: white !important;
+    background:var(--twitter-color) !important;
+    height: 5rem !important;
+    font-weight: 700 !important;
+    border-radius: 5rem !important;
+    font-size:1.2rem!important;
+    margin: 2rem 0rem !important;
+
+}
