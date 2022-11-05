@@ -1,0 +1,16 @@
+.Post{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items:center ; 
+    border-left: 1px solid var(--twitter-color);
+    border-right: 1px solid var(--twitter-color);
+    height: 100%;
+    overflow-y:scroll;
+    overflow-x: hidden;
+}
+
+
+.Post::-webkit-scrollbar{
+    display: none;
+}
